@@ -1,6 +1,6 @@
 # Play-chess
 
-I have created a chessboard with C# as part of the programming with C# course of the University of Piraeus using windows form. This app allow players to play chess freely,ie no restriction is applied based on the rules of the game.The game gives also the opportunity to players to choose time that each one can have for moving a pawn.Application simulates real world chess games.
+I have created a chessboard with C# that was developed as a university assignment for the subject of Object Oriented Application Development using windows form. This app allow players to play chess freely,ie no restriction is applied based on the rules of the game.The game gives also the opportunity to players to choose time that each one can have for moving a pawn.Application simulates real world chess games.
 
 Below are same snapshots  :
 
